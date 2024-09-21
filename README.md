@@ -16,3 +16,9 @@ This project is a simple JavaScript-based quiz app that helps users test their b
 - You can modify the HTML, CSS, or JavaScript files to customize the quiz content and design as needed.
 5.	Deploy (Optional):
 - Host the project on a platform like GitHub Pages, Netlify, or any other static site hosting service for public access.
+
+
+For contributors, the expectation is to ensure that the JavaScript code is simple, clean, and well-organized.Avoid unnecessary code or repetition, and make sure the project structure follows best practices for readability and maintainability.
+
+
+
